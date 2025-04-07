@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
                         <div className="header-left">
                             <div className="logo">
                                 <Link to="/">
-                                    <img src="/assets/img/logo/logo.png" alt="Logo" />
+                                    <img src="/assets/img/logo/ademicLogo.png" alt="Logo" height="90"/>
                                 </Link>
                             </div>
                             <div className="menu-wrapper d-flex align-items-center">
@@ -44,7 +44,7 @@ const Layout = ({ children }) => {
                                             <li><Link to="/">Home</Link></li>
                                             <li><Link to="/about">About</Link></li>
                                             {/* <li><Link to="/services">Services</Link></li> */}
-                                            {/* <li><Link to="/blog">Blog</Link></li> */}
+                                            <li><Link to="/terms">Terms & Conditions</Link></li>
                                             {/* <li><Link to="/contact">Contact</Link></li> */}
                                         </ul>
                                     </nav>
@@ -76,7 +76,7 @@ const Layout = ({ children }) => {
                                 <div className="single-footer-caption mb-50">
                                     <div className="footer-logo mb-35">
                                         <Link to="/">
-                                            <img src="assets/img/logo/logo2_footer.png" alt="" />
+                                        <img src="/assets/img/logo/ademicLogo.png" alt="Logo" height="90"/>
                                         </Link>
                                     </div>
                                     <div className="footer-tittle">
@@ -110,7 +110,7 @@ const Layout = ({ children }) => {
                                         <ul>
                                             <li className="number"><a href="#">+2348106474983</a></li>
                                             <li><a href="#">ademicspin@gmail.com</a></li>
-                                            <li><a href="#">Illisan Remo, Ogun State</a></li>
+                                            <li><a href="#">10 Oluwadamilare street Mowe, Ogun State.</a></li>
                                         </ul>
                                     </div>
                                 </div>
