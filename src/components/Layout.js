@@ -110,7 +110,7 @@ const Layout = ({ children }) => {
                                         <ul>
                                             <li className="number"><a href="#">+2348106474983</a></li>
                                             <li><a href="#">ademicspin@gmail.com</a></li>
-                                            <li><a href="#">10 Oluwadamilare street Mowe, Ogun State.</a></li>
+                                            <li><a href="#">No. 3 orefagbabi Street, Ilisan Remo Ogun State</a></li>
                                         </ul>
                                     </div>
                                 </div>
